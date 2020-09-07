@@ -1,5 +1,4 @@
 # webp-gallery
-# webp-gallery
 ![image](https://github.com/axilesoft/webp-gallery/blob/master/text%20firwork%20styles/s00blfire.webp?raw=true)
 ![image](https://github.com/axilesoft/webp-gallery/blob/master/text%20firwork%20styles/s01gf.webp?raw=true)
 ![image](https://github.com/axilesoft/webp-gallery/blob/master/text%20firwork%20styles/s02swp.webp?raw=true)
